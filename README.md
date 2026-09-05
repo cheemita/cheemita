@@ -229,8 +229,8 @@ Lidero el ciclo de vida completo de aplicaciones web, móviles y en la nube:
 ### 📊 GitHub Activity &amp; Real-Time Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cheemita&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00D2FF&icon_color=38BDF8&text_color=94A3B8&bg_color=060913" height="155" alt="José Manuel Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheemita&layout=compact&theme=tokyonight&hide_border=true&title_color=00D2FF&text_color=94A3B8&bg_color=060913" height="155" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=cheemita&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00D2FF&icon_color=38BDF8&text_color=94A3B8&bg_color=060913" height="155" alt="José Manuel Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cheemita&layout=compact&theme=tokyonight&hide_border=true&title_color=00D2FF&text_color=94A3B8&bg_color=060913" height="155" alt="Top Languages" />
 </div>
 
 <br/>
@@ -244,11 +244,7 @@ Lidero el ciclo de vida completo de aplicaciones web, móviles y en la nube:
 ### 🐍 Contribution Matrix (1,500+ Annual Contributions)
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cheemita/cheemita/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cheemita/cheemita/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/cheemita/cheemita/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/cheemita/cheemita/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </div>
 
 ---
