@@ -1,22 +1,22 @@
 <div align="center">
 
-  <img src="assets/header-banner.svg" alt="Jose Manuel Gonzalez - Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/cheemita/cheemita/main/assets/header-banner.svg" alt="Jose Manuel Gonzalez - Software Engineer Banner" width="100%" />
 
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00D2FF&center=true&vCenter=true&width=680&lines=Software+Engineer+(B.S.);Full+Stack+Developer+%7C+Laravel+%26+React;Founder+%26+Lead+Engineer+@+OMNIA;Creator+%26+Architect+@+KOSMOS;AI+Orchestrator+(Claude+Code,+Gemini,+LLMs);Bilingual+Engineer+(English+%26+Spanish)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00D2FF&center=true&vCenter=true&width=750&lines=Software+Engineer+(B.S.)+%7C+UNIPOLI;Full+Stack+Architect+%7C+Laravel,+NestJS,+React;Founder+%26+Lead+Engineer+@+OMNIA;Creator+%26+Architect+@+KOSMOS;AI+Orchestrator+(Claude+Code,+Gemini,+LLMs);Bilingual+Engineer+(English+B1+%26+Spanish+Native)" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/jose-manuel-gonzalez0222/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-José_Manuel_González-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
     </a>
-    <a href="mailto:gjosemanuel375@gmail.com">
-      <img src="https://img.shields.io/badge/Email-gjosemanuel375@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
     <a href="https://www.linkedin.com/in/jose-manuel-gonzalez0222/" target="_blank">
       <img src="https://img.shields.io/badge/Status-🟢_Open_to_Work-059669?style=for-the-badge" alt="Open to Work" />
+    </a>
+    <a href="mailto:gjosemanuel375@gmail.com">
+      <img src="https://img.shields.io/badge/Email-gjosemanuel375@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <img src="https://img.shields.io/badge/GitHub-PRO-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pro" />
   </p>
@@ -26,27 +26,27 @@
 ---
 
 <details open>
-<summary><h2>🇺🇸 English Profile &mdash; Click to Expand / Collapse</h2></summary>
+<summary><h2>🇺🇸 English Profile &mdash; (Click to Collapse / Expand)</h2></summary>
 
 ### 👨‍💻 Executive Summary
 
 I am a **Software Engineer** graduated from **Universidad Politécnica de Durango (UNIPOLI)**, founder of **OMNIA Studio**, and lead architect of **KOSMOS** and its enterprise **Invoice-SaaS** ecosystem.
 
-I design and build resilient, full-stack applications and cloud platforms:
-* **Backend & Cloud**: High-performance architectures with **Laravel 11**, **NodeJS / NestJS**, **Python**, **PostgreSQL**, **MySQL**, **Prisma ORM**, and **Docker** on managed VPS.
-* **Frontend & Mobile**: Reactive, fluid user experiences using **React 19**, **Next.js 15**, **React Native**, **Tailwind CSS v4**, and **Framer Motion**.
-* **AI Orchestration**: Autonomous agent workflows using **Claude Code**, **Gemini / Antigravity**, **Local LLMs**, and complex **CI/CD automation**.
-* **Production Heritage**: Proven track record developing billing platforms, banking IT infrastructure (**BBVA**), automated VoIP engines (**Twilio** / **RSP Mazatlán**), and business profit distribution systems (**Tecnosapiens**).
+I engineer resilient, end-to-end applications and cloud systems:
+* **Backend & Cloud Architecture**: Designing high-throughput systems with **Laravel 11**, **NodeJS / NestJS**, **Python**, **PostgreSQL**, **MySQL**, **Prisma ORM**, and **Docker** deployed on self-managed Linux VPS.
+* **Frontend & Mobile Platforms**: Crafting high-conversion user interfaces with **React 19**, **Next.js 15**, **React Native**, **Tailwind CSS v4**, and **Framer Motion**.
+* **AI Orchestration & Agents**: Accelerating development and operations with **Claude Code**, **Antigravity / Gemini**, **Local LLMs**, and complex **CI/CD automation**.
+* **Enterprise Track Record**: Field-tested experience deploying mission-critical banking infrastructure (**BBVA**), automated telecom dialers (**Twilio** / **RSP Mazatlán**), multi-business profit ledgers (**Tecnosapiens**), and legacy system modernizations (**FIIXCOM**).
 
 ---
 
 ### 🌐 Key Credentials & Overview
 
 * 🎓 **Degree**: B.S. in Software Engineering — Universidad Politécnica de Durango (Titulado)
-* 💼 **LinkedIn**: [linkedin.com/in/jose-manuel-gonzalez0222](https://www.linkedin.com/in/jose-manuel-gonzalez0222/)
+* 💼 **LinkedIn Profile**: [linkedin.com/in/jose-manuel-gonzalez0222](https://www.linkedin.com/in/jose-manuel-gonzalez0222/)
 * 🗣️ **Languages**: English (**B1 Certified — EF SET / ITEP**) & Spanish (Native)
-* 📍 **Location**: Mazatlán, Sinaloa, Mexico (Remote Ready Worldwide)
-* 🚀 **Current Status**: **#OpenToWork** — Seeking High-Impact Software Engineering Roles & Tech Collaborations
+* 📍 **Location**: Mazatlán, Sinaloa, Mexico (Available for Remote Worldwide & Relocation)
+* 🚀 **Status**: **#OpenToWork** &mdash; Ready for Full Stack, Backend, or Lead Developer roles.
 
 ---
 
@@ -58,9 +58,9 @@ I design and build resilient, full-stack applications and cloud platforms:
       <h3>🌌 KOSMOS &bull; Invoice-SaaS</h3>
       <p><b>Enterprise Multi-Tenant Financial &amp; Billing SaaS</b></p>
       <ul>
-        <li><b>Architecture:</b> Built with <b>Laravel 11</b>, <b>Filament v3</b>, <b>Laravel Cashier (Stripe)</b>, <b>Firebase</b>, and <b>Tailwind CSS v4</b>.</li>
-        <li><b>Reliability:</b> Engineered automated <b>Blue-Green Zero-Downtime Deployments</b> and comprehensive <b>Playwright E2E testing</b> suites.</li>
-        <li><b>Capabilities:</b> Real-time subscription billing, multi-business ledgers, and automated fiscal invoices.</li>
+        <li><b>Architecture:</b> Built on <b>Laravel 11</b>, <b>Filament v3</b>, <b>Laravel Cashier (Stripe)</b>, <b>Firebase</b>, and <b>Tailwind CSS v4</b>.</li>
+        <li><b>Zero-Downtime:</b> Engineered automated <b>Blue-Green deployment scripts</b> and robust <b>Playwright E2E suites</b>.</li>
+        <li><b>Functionality:</b> Real-time subscription billing, multi-account fiscal ledgers, and secure role-based access control (RBAC).</li>
       </ul>
       <p>
         <code>Laravel 11</code> &bull; <code>Filament v3</code> &bull; <code>Stripe</code> &bull; <code>Docker</code> &bull; <code>Playwright</code> &bull; <code>PostgreSQL</code>
@@ -70,9 +70,9 @@ I design and build resilient, full-stack applications and cloud platforms:
       <h3>✨ OMNIA Tech Studio</h3>
       <p><b>Cosmic Software &amp; Product Engineering Lab</b></p>
       <ul>
-        <li><b>Mission:</b> Delivering bespoke web applications, mobile platforms, POS systems, and ultra-high-converting landing pages.</li>
+        <li><b>Mission:</b> Developing bespoke web applications, mobile platforms, POS systems, and ultra-high-converting landing pages.</li>
         <li><b>Stack:</b> <b>Next.js 15</b> (App Router), <b>TypeScript</b>, <b>Framer Motion</b>, <b>Radix UI</b>, and cross-platform <b>React Native</b>.</li>
-        <li><b>Aesthetics:</b> Tailored cosmic dark-mode UI with high performance, fluid animations, and accessibility.</li>
+        <li><b>Design System:</b> Tailored cosmic dark-mode UI with fluid micro-interactions, high responsiveness, and SEO optimization.</li>
       </ul>
       <p>
         <code>Next.js 15</code> &bull; <code>TypeScript</code> &bull; <code>Framer Motion</code> &bull; <code>React Native</code>
@@ -82,14 +82,14 @@ I design and build resilient, full-stack applications and cloud platforms:
   <tr>
     <td width="50%" valign="top">
       <h3>📞 Smart Telecom &amp; CRM Engine (RSP Mazatlán)</h3>
-      <p><b>Automated VoIP Predictive Dialer &amp; Network Infrastructure</b></p>
+      <p><b>Automated VoIP Predictive Dialer &amp; Network Hardening</b></p>
       <ul>
-        <li>Engineered a full-scale automated outbound calling platform with intelligent phone number validation, reducing agent idle time to near zero.</li>
+        <li>Engineered an automated outbound dialer with intelligent phone number validation, reducing agent idle time to near zero.</li>
         <li>Built with <b>Twilio API</b>, <b>Node.js / Express</b>, <b>MySQL</b>, and <b>React (Vite)</b>.</li>
-        <li>Executed physical network hardening: switch installations, IP range access controls, and network traffic security.</li>
+        <li>Executed physical network infrastructure hardening: switch setups, external IP blocking, and secure routing.</li>
       </ul>
       <p>
-        <code>Twilio</code> &bull; <code>Node.js</code> &bull; <code>Express</code> &bull; <code>React</code> &bull; <code>Network Hardening</code>
+        <code>Twilio</code> &bull; <code>Node.js</code> &bull; <code>Express</code> &bull; <code>React</code> &bull; <code>Networking</code>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -119,27 +119,27 @@ I design and build resilient, full-stack applications and cloud platforms:
 ---
 
 <details>
-<summary><h2>🇲🇽 Versión en Español &mdash; Haz clic para expandir / colapsar</h2></summary>
+<summary><h2>🇲🇽 Versión en Español &mdash; (Haz clic para expandir / colapsar)</h2></summary>
 
 ### 👨‍💻 Perfil Profesional
 
 Soy **Ingeniero de Software** titulado por la **Universidad Politécnica de Durango (UNIPOLI)**, fundador de **OMNIA Studio** y arquitecto líder de **KOSMOS** y su plataforma SaaS de facturación **Invoice-SaaS**.
 
 Lidero el ciclo de vida completo de aplicaciones de software:
-* **Backend y Cloud**: Arquitecturas robustas con **Laravel 11**, **NodeJS / NestJS**, **Python**, **PostgreSQL**, **MySQL**, **Prisma**, y **Docker** en servidores VPS.
+* **Backend, Cloud y ORMs**: Arquitecturas robustas con **Laravel 11**, **NodeJS / NestJS**, **Python**, **PostgreSQL**, **MySQL**, **Prisma ORM** y **Docker** en servidores VPS gestionados.
 * **Frontend y Móvil**: Desarrollo de interfaces dinámicas y modernas con **React 19**, **Next.js 15**, **React Native**, **Tailwind CSS v4** y **Framer Motion**.
-* **Orquestación de IA**: Flujos agénticos avanzados con **Claude Code**, **Gemini / Antigravity**, **LLMs locales** y **CI/CD** automatizado.
-* **Experiencia de Producción**: Desarrollo de plataformas SaaS, infraestructura bancaria de alta seguridad (**BBVA**), motores de telefonía inteligente (**Twilio** / **RSP Mazatlán**) y ERPs de reparto de utilidades (**Tecnosapiens**).
+* **Orquestación de IA**: Flujos agénticos avanzados con **Claude Code**, **Antigravity / Gemini**, **LLMs locales** y pipelines automatizados de **CI/CD**.
+* **Experiencia en Producción**: Desarrollo de plataformas SaaS, infraestructura bancaria de alta seguridad (**BBVA**), motores de telefonía inteligente (**Twilio** / **RSP Mazatlán**) y ERPs de reparto de utilidades (**Tecnosapiens**).
 
 ---
 
 ### 🌐 Resumen y Credenciales
 
 * 🎓 **Título**: Ingeniero de Software — Universidad Politécnica de Durango (UNIPOLI)
-* 💼 **LinkedIn**: [linkedin.com/in/jose-manuel-gonzalez0222](https://www.linkedin.com/in/jose-manuel-gonzalez0222/)
+* 💼 **Perfil de LinkedIn**: [linkedin.com/in/jose-manuel-gonzalez0222](https://www.linkedin.com/in/jose-manuel-gonzalez0222/)
 * 🗣️ **Idiomas**: Inglés (**Certificado B1 — EF SET / ITEP**) y Español (Nativo)
-* 📍 **Ubicación**: Mazatlán, Sinaloa, México (Disponible para trabajo remoto o reubicación)
-* 🚀 **Estado Actual**: **#OpenToWork** — Disponible para proyectos de alto impacto y roles Full Stack
+* 📍 **Ubicación**: Mazatlán, Sinaloa, México (Disponible para trabajo remoto global o reubicación)
+* 🚀 **Estado Actual**: **#OpenToWork** &mdash; En búsqueda activa de roles como Programador Full Stack / Backend / Lead Engineer.
 
 ---
 
@@ -149,7 +149,7 @@ Lidero el ciclo de vida completo de aplicaciones de software:
 * **✨ OMNIA Tech Studio**: Estudio de desarrollo de productos digitales. Creación de aplicaciones web (Next.js 15, Framer Motion), aplicaciones móviles multiplataforma (React Native), puntos de venta (POS) y landing pages de ultra-alta conversión.
 * **📞 Motor de Telefonía VoIP &amp; CRM (RSP Mazatlán)**: Marcador predictivo inteligente con filtrado de números válidos usando Twilio API, Node.js, Express y React, sumado a la adecuación física de switches y seguridad de red.
 * **📊 ERP Financiero y Reparto de Utilidades (Tecnosapiens)**: Algoritmos de dispersión de utilidades y balances contables complejos para constructoras y boutiques (CADEZ, Fragaboutique, CO-CASA).
-* **🏦 Soporte de Redes e Infraestructura (BBVA)**: Atención técnica a sucursales BBVA resolviendo incidencias de hardware, redes y dispositivos críticos.
+* **🏦 Soporte de Redes e Infraestructura (BBVA)**: Atención técnica a sucursales BBVA resolviendo incidencias de hardware, redes y dispositivos críticos bajo normativas bancarias.
 
 </details>
 
@@ -236,7 +236,7 @@ Lidero el ciclo de vida completo de aplicaciones de software:
 
 <div align="center">
 
-I am actively open to discussing **Software Engineering roles**, **SaaS architectures**, and **innovative product builds**.
+I am actively open to discussing **Software Engineering roles**, **Full Stack architectures**, and **innovative product builds**.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jose-manuel-gonzalez0222/" target="_blank">
