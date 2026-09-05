@@ -5,7 +5,7 @@
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00D2FF&center=true&vCenter=true&width=750&lines=Software+Engineer+(B.S.)+%7C+UNIPOLI;Full+Stack+Architect+%7C+Laravel,+NestJS,+React;Founder+%26+Lead+Engineer+@+OMNIA;Creator+%26+Architect+@+KOSMOS;AI+Orchestrator+(Claude+Code,+Gemini,+LLMs);Bilingual+Engineer+(English+B1+%26+Spanish+Native)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00D2FF&center=true&vCenter=true&width=750&lines=Software+Engineer+(B.S.)+%7C+UNIPOLI;Full+Stack+Architect+%7C+Laravel,+NestJS,+React;Mobile+Developer+%7C+Flutter+%26+React+Native;Founder+%26+Lead+Engineer+@+OMNIA;Creator+%26+Architect+@+KOSMOS;AI+Orchestrator+(Claude+Code,+Gemini,+LLMs);Bilingual+Engineer+(English+B1+%26+Spanish+Native)" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -30,13 +30,14 @@
 
 ### 👨‍💻 Executive Summary
 
-I am a **Software Engineer** graduated from **Universidad Politécnica de Durango (UNIPOLI)**, founder of **OMNIA Studio**, and lead architect of **KOSMOS** and its enterprise **Invoice-SaaS** ecosystem.
+I am a **Software Engineer** graduated from **Universidad Politécnica de Durango (UNIPOLI)**, founder of **OMNIA Studio**, and lead architect of **KOSMOS** and its enterprise **Invoice-SaaS** platform.
 
-I engineer resilient, end-to-end applications and cloud systems:
-* **Backend & Cloud Architecture**: Designing high-throughput systems with **Laravel 11**, **NodeJS / NestJS**, **Python**, **PostgreSQL**, **MySQL**, **Prisma ORM**, and **Docker** deployed on self-managed Linux VPS.
-* **Frontend & Mobile Platforms**: Crafting high-conversion user interfaces with **React 19**, **Next.js 15**, **React Native**, **Tailwind CSS v4**, and **Framer Motion**.
-* **AI Orchestration & Agents**: Accelerating development and operations with **Claude Code**, **Antigravity / Gemini**, **Local LLMs**, and complex **CI/CD automation**.
-* **Enterprise Track Record**: Field-tested experience deploying mission-critical banking infrastructure (**BBVA**), automated telecom dialers (**Twilio** / **RSP Mazatlán**), multi-business profit ledgers (**Tecnosapiens**), and legacy system modernizations (**FIIXCOM**).
+I engineer resilient, end-to-end web & mobile applications and cloud architectures:
+* **Backend & Cloud Architecture**: High-throughput systems using **Laravel 11**, **NodeJS / NestJS**, **Python**, **PostgreSQL**, **MySQL**, **Prisma ORM**, and **Docker** deployed on self-managed Linux VPS.
+* **Frontend & Mobile Platforms**: Fluid cross-platform applications built with **Flutter (Dart)**, **React Native**, **React 19**, **Next.js 15**, **Tailwind CSS v4**, and **Framer Motion**.
+* **AI Orchestration & Agents**: Modern agentic workflows using **Claude Code**, **Antigravity / Gemini**, **Local LLMs**, and continuous **CI/CD automation**.
+* **Enterprise & Field Track Record**: Mission-critical banking infrastructure (**BBVA**), enterprise mobile apps with **Flutter** (**Tecnosapiens**), automated VoIP telephony platforms (**Twilio**), and legacy system modernizations (**FIIXCOM**).
+* **Independent Client Portfolio**: Delivered custom systems as a freelancer for clients including **CADEZ** (construction management), **CO-CASA** (housing & real estate), and personal flagship products like **KOSMOS**.
 
 ---
 
@@ -46,7 +47,7 @@ I engineer resilient, end-to-end applications and cloud systems:
 * 💼 **LinkedIn Profile**: [linkedin.com/in/jose-manuel-gonzalez0222](https://www.linkedin.com/in/jose-manuel-gonzalez0222/)
 * 🗣️ **Languages**: English (**B1 Certified — EF SET / ITEP**) & Spanish (Native)
 * 📍 **Location**: Mazatlán, Sinaloa, Mexico (Available for Remote Worldwide & Relocation)
-* 🚀 **Status**: **#OpenToWork** &mdash; Ready for Full Stack, Backend, or Lead Developer roles.
+* 🚀 **Status**: **#OpenToWork** &mdash; Available for Software Engineer, Full Stack, or Mobile roles.
 
 ---
 
@@ -59,8 +60,8 @@ I engineer resilient, end-to-end applications and cloud systems:
       <p><b>Enterprise Multi-Tenant Financial &amp; Billing SaaS</b></p>
       <ul>
         <li><b>Architecture:</b> Built on <b>Laravel 11</b>, <b>Filament v3</b>, <b>Laravel Cashier (Stripe)</b>, <b>Firebase</b>, and <b>Tailwind CSS v4</b>.</li>
-        <li><b>Zero-Downtime:</b> Engineered automated <b>Blue-Green deployment scripts</b> and robust <b>Playwright E2E suites</b>.</li>
-        <li><b>Functionality:</b> Real-time subscription billing, multi-account fiscal ledgers, and secure role-based access control (RBAC).</li>
+        <li><b>Zero-Downtime:</b> Engineered automated <b>Blue-Green deployment scripts</b> and robust <b>Playwright E2E testing suites</b>.</li>
+        <li><b>Functionality:</b> Real-time subscription billing, multi-account fiscal ledgers, and role-based access control (RBAC).</li>
       </ul>
       <p>
         <code>Laravel 11</code> &bull; <code>Filament v3</code> &bull; <code>Stripe</code> &bull; <code>Docker</code> &bull; <code>Playwright</code> &bull; <code>PostgreSQL</code>
@@ -71,8 +72,8 @@ I engineer resilient, end-to-end applications and cloud systems:
       <p><b>Cosmic Software &amp; Product Engineering Lab</b></p>
       <ul>
         <li><b>Mission:</b> Developing bespoke web applications, mobile platforms, POS systems, and ultra-high-converting landing pages.</li>
-        <li><b>Stack:</b> <b>Next.js 15</b> (App Router), <b>TypeScript</b>, <b>Framer Motion</b>, <b>Radix UI</b>, and cross-platform <b>React Native</b>.</li>
-        <li><b>Design System:</b> Tailored cosmic dark-mode UI with fluid micro-interactions, high responsiveness, and SEO optimization.</li>
+        <li><b>Stack:</b> <b>Next.js 15</b> (App Router), <b>TypeScript</b>, <b>Framer Motion</b>, <b>Radix UI</b>, and cross-platform mobile apps.</li>
+        <li><b>Design System:</b> Tailored cosmic dark-mode UI with fluid micro-interactions, high performance, and SEO optimization.</li>
       </ul>
       <p>
         <code>Next.js 15</code> &bull; <code>TypeScript</code> &bull; <code>Framer Motion</code> &bull; <code>React Native</code>
@@ -81,26 +82,27 @@ I engineer resilient, end-to-end applications and cloud systems:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📞 Smart Telecom &amp; CRM Engine (RSP Mazatlán)</h3>
-      <p><b>Automated VoIP Predictive Dialer &amp; Network Hardening</b></p>
+      <h3>📞 Smart Telecom &amp; VoIP Dialer Engine</h3>
+      <p><b>Automated Outbound Calling Platform &amp; Network Infrastructure</b></p>
       <ul>
-        <li>Engineered an automated outbound dialer with intelligent phone number validation, reducing agent idle time to near zero.</li>
+        <li>Engineered a full-scale automated outbound calling platform with intelligent phone number validation, eliminating dead numbers and maximizing agent talk time.</li>
         <li>Built with <b>Twilio API</b>, <b>Node.js / Express</b>, <b>MySQL</b>, and <b>React (Vite)</b>.</li>
-        <li>Executed physical network infrastructure hardening: switch setups, external IP blocking, and secure routing.</li>
+        <li>Hardened physical telecommunications infrastructure: switch installations, IP range access controls, and network traffic security.</li>
       </ul>
       <p>
-        <code>Twilio</code> &bull; <code>Node.js</code> &bull; <code>Express</code> &bull; <code>React</code> &bull; <code>Networking</code>
+        <code>Twilio</code> &bull; <code>Node.js</code> &bull; <code>Express</code> &bull; <code>React</code> &bull; <code>Network Hardening</code>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 Multi-Business ERP &amp; Profit Engine (Tecnosapiens)</h3>
-      <p><b>Automated Balance Distribution for Commercial Clients</b></p>
+      <h3>📱 Enterprise Mobile &amp; Profit Engine (Tecnosapiens)</h3>
+      <p><b>Cross-Platform Flutter App &amp; Multi-Account Financial Distribution</b></p>
       <ul>
-        <li>Architected financial balance calculation engines and automated profit distribution algorithms for boutique and construction enterprises (<b>CADEZ</b>, <b>Fragaboutique</b>, <b>CO-CASA</b>).</li>
-        <li>Integrated AI agent tooling to enhance developer velocity, unit testing, and team feedback loops.</li>
+        <li>Developed a production cross-platform mobile application in <b>Flutter / Dart</b> for boutique and retail administration.</li>
+        <li>Architected financial balance calculation engines and automated profit distribution algorithms for complex business ledgers.</li>
+        <li>Implemented AI agent tooling to enhance developer velocity, testing workflows, and rapid delivery cycles.</li>
       </ul>
       <p>
-        <code>React Native</code> &bull; <code>PostgreSQL</code> &bull; <code>Node.js</code> &bull; <code>AI Automation</code>
+        <code>Flutter</code> &bull; <code>Dart</code> &bull; <code>PostgreSQL</code> &bull; <code>Node.js</code> &bull; <code>AI Automation</code>
       </p>
     </td>
   </tr>
@@ -108,11 +110,19 @@ I engineer resilient, end-to-end applications and cloud systems:
 
 ---
 
-### 🛡️ Field Experience & Enterprise Engagements
+### 💼 Freelance &amp; Independent Engineering Solutions
 
-* **🏦 BBVA (Field Engineer &amp; Infrastructure Support)**: Diagnosed mission-critical network issues and branch hardware incidents across multiple banking branches, enforcing strict banking compliance and reliable connectivity.
-* **⚡ FIIXCOM (Full Stack Engineer)**: Modernized legacy business systems using **Laravel** and **PostgreSQL**, establishing automated unit testing CLI suites to guarantee zero-regression feature deployments.
-* **🌐 QACS (Full Stack Engineer)**: Built scalable TypeScript applications using **React**, **GraphQL**, **Apollo Client**, and **Tailwind CSS**, leading technical requirements discovery directly with enterprise clients.
+* **🏗️ CADEZ**: Architected and developed a custom software solution to streamline construction and project management workflows.
+* **🏠 CO-CASA**: Built an end-to-end digital system tailored for property, housing, and operational management.
+* **🌌 KOSMOS**: Personal flagship ecosystem encompassing invoice SaaS architecture, multi-tenant billing, and design systems.
+
+---
+
+### 🛡️ Field Experience &amp; Enterprise Engagements
+
+* **🏦 BBVA (Field Engineer &amp; Infrastructure Support)**: Diagnosed mission-critical network issues and branch hardware incidents across multiple banking branches, enforcing strict banking compliance and high availability.
+* **⚡ FIIXCOM (Full Stack Engineer)**: Modernized legacy business systems using **Laravel** and **PostgreSQL**, establishing automated unit testing CLI suites to guarantee zero-regression deployments.
+* **🌐 QACS (Full Stack Engineer)**: Scaled TypeScript applications using **React**, **GraphQL**, **Apollo Client**, and **Tailwind CSS**, leading technical requirements discovery with clients.
 
 </details>
 
@@ -125,11 +135,12 @@ I engineer resilient, end-to-end applications and cloud systems:
 
 Soy **Ingeniero de Software** titulado por la **Universidad Politécnica de Durango (UNIPOLI)**, fundador de **OMNIA Studio** y arquitecto líder de **KOSMOS** y su plataforma SaaS de facturación **Invoice-SaaS**.
 
-Lidero el ciclo de vida completo de aplicaciones de software:
+Lidero el ciclo de vida completo de aplicaciones web, móviles y en la nube:
 * **Backend, Cloud y ORMs**: Arquitecturas robustas con **Laravel 11**, **NodeJS / NestJS**, **Python**, **PostgreSQL**, **MySQL**, **Prisma ORM** y **Docker** en servidores VPS gestionados.
-* **Frontend y Móvil**: Desarrollo de interfaces dinámicas y modernas con **React 19**, **Next.js 15**, **React Native**, **Tailwind CSS v4** y **Framer Motion**.
+* **Frontend y Desarrollo Móvil**: Creación de aplicaciones móviles y web con **Flutter (Dart)**, **React Native**, **React 19**, **Next.js 15**, **Tailwind CSS v4** y **Framer Motion**.
 * **Orquestación de IA**: Flujos agénticos avanzados con **Claude Code**, **Antigravity / Gemini**, **LLMs locales** y pipelines automatizados de **CI/CD**.
-* **Experiencia en Producción**: Desarrollo de plataformas SaaS, infraestructura bancaria de alta seguridad (**BBVA**), motores de telefonía inteligente (**Twilio** / **RSP Mazatlán**) y ERPs de reparto de utilidades (**Tecnosapiens**).
+* **Experiencia en Producción**: Desarrollo de plataformas SaaS, infraestructura bancaria de alta seguridad (**BBVA**), aplicaciones móviles en **Flutter** (**Tecnosapiens**), motores de telefonía inteligente (**Twilio**) y modernización de sistemas heredados (**FIIXCOM**).
+* **Clientes como Freelancer**: Desarrollo de plataformas y software a medida para clientes como **CADEZ** (construcción), **CO-CASA** (vivienda e inmobiliaria) y el ecosistema **KOSMOS**.
 
 ---
 
@@ -139,17 +150,25 @@ Lidero el ciclo de vida completo de aplicaciones de software:
 * 💼 **Perfil de LinkedIn**: [linkedin.com/in/jose-manuel-gonzalez0222](https://www.linkedin.com/in/jose-manuel-gonzalez0222/)
 * 🗣️ **Idiomas**: Inglés (**Certificado B1 — EF SET / ITEP**) y Español (Nativo)
 * 📍 **Ubicación**: Mazatlán, Sinaloa, México (Disponible para trabajo remoto global o reubicación)
-* 🚀 **Estado Actual**: **#OpenToWork** &mdash; En búsqueda activa de roles como Programador Full Stack / Backend / Lead Engineer.
+* 🚀 **Estado Actual**: **#OpenToWork** &mdash; Disponible para roles de Ingeniero de Software, Full Stack o Desarrollador Móvil.
 
 ---
 
 ### 🚀 Proyectos Reales y Casos de Éxito
 
 * **🌌 KOSMOS &bull; Invoice-SaaS**: Plataforma SaaS multi-inquilino de facturación y finanzas. Construida con Laravel 11, Filament v3, pasarela de suscripciones recurrentes con Laravel Cashier (Stripe), pruebas E2E con Playwright y despliegues *Zero-Downtime Blue-Green*.
-* **✨ OMNIA Tech Studio**: Estudio de desarrollo de productos digitales. Creación de aplicaciones web (Next.js 15, Framer Motion), aplicaciones móviles multiplataforma (React Native), puntos de venta (POS) y landing pages de ultra-alta conversión.
-* **📞 Motor de Telefonía VoIP &amp; CRM (RSP Mazatlán)**: Marcador predictivo inteligente con filtrado de números válidos usando Twilio API, Node.js, Express y React, sumado a la adecuación física de switches y seguridad de red.
-* **📊 ERP Financiero y Reparto de Utilidades (Tecnosapiens)**: Algoritmos de dispersión de utilidades y balances contables complejos para constructoras y boutiques (CADEZ, Fragaboutique, CO-CASA).
+* **✨ OMNIA Tech Studio**: Estudio de desarrollo de productos digitales. Creación de aplicaciones web interactivas (Next.js 15, Framer Motion), aplicaciones móviles, puntos de venta (POS) y landing pages de ultra-alta conversión.
+* **📞 Motor de Telefonía VoIP &amp; Marcador Inteligente**: Marcador automatizado de llamadas salientes con validación y filtrado inteligente de números mediante Twilio API, Node.js, Express y React, sumado a la adecuación física de switches y seguridad de red.
+* **📱 App Móvil Empresarial &amp; Motor Financiero (Tecnosapiens)**: Desarrollo de aplicación móvil multiplataforma en **Flutter / Dart** para la administración de boutiques comerciales, junto con algoritmos de dispersión de utilidades y balances de saldo complejos con integración de IA.
 * **🏦 Soporte de Redes e Infraestructura (BBVA)**: Atención técnica a sucursales BBVA resolviendo incidencias de hardware, redes y dispositivos críticos bajo normativas bancarias.
+
+---
+
+### 💼 Soluciones Independientes &amp; Proyectos Freelancer
+
+* **🏗️ CADEZ**: Diseño e implementación de software a medida para el control, administración y seguimiento de proyectos en el sector de la construcción.
+* **🏠 CO-CASA**: Plataforma integral diseñada para optimizar los procesos de gestión habitacional e inmobiliaria.
+* **🌌 KOSMOS**: Ecosistema insignia desarrollado de manera personal, enfocado en arquitectura SaaS, facturación multi-tenant y sistemas de diseño modulares.
 
 </details>
 
@@ -161,6 +180,8 @@ Lidero el ciclo de vida completo de aplicaciones de software:
 
 #### 🎨 Frontend &amp; Mobile
 <p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js 15" />
   <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
@@ -236,7 +257,7 @@ Lidero el ciclo de vida completo de aplicaciones de software:
 
 <div align="center">
 
-I am actively open to discussing **Software Engineering roles**, **Full Stack architectures**, and **innovative product builds**.
+I am actively open to discussing **Software Engineering roles**, **Full Stack / Mobile architectures**, and **innovative product builds**.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jose-manuel-gonzalez0222/" target="_blank">
