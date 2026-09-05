@@ -56,7 +56,10 @@ I engineer resilient, end-to-end web & mobile applications and cloud architectur
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌌 KOSMOS &bull; Invoice-SaaS</h3>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/cheemita/cheemita/main/assets/kosmos_logo_hd.jpg" width="90" alt="KOSMOS Logo" style="border-radius: 14px;" />
+        <h3>🌌 KOSMOS &bull; Invoice-SaaS</h3>
+      </div>
       <p><b>Enterprise Multi-Tenant Financial &amp; Billing SaaS</b></p>
       <ul>
         <li><b>Architecture:</b> Built on <b>Laravel 11</b>, <b>Filament v3</b>, <b>Laravel Cashier (Stripe)</b>, <b>Firebase</b>, and <b>Tailwind CSS v4</b>.</li>
@@ -68,7 +71,10 @@ I engineer resilient, end-to-end web & mobile applications and cloud architectur
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>✨ OMNIA Tech Studio</h3>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/cheemita/cheemita/main/assets/logo-icon.svg" width="90" alt="OMNIA Logo" />
+        <h3>✨ OMNIA Tech Studio</h3>
+      </div>
       <p><b>Cosmic Software &amp; Product Engineering Lab</b></p>
       <ul>
         <li><b>Mission:</b> Developing bespoke web applications, mobile platforms, POS systems, and ultra-high-converting landing pages.</li>
@@ -156,8 +162,39 @@ Lidero el ciclo de vida completo de aplicaciones web, móviles y en la nube:
 
 ### 🚀 Proyectos Reales y Casos de Éxito
 
-* **🌌 KOSMOS &bull; Invoice-SaaS**: Plataforma SaaS multi-inquilino de facturación y finanzas. Construida con Laravel 11, Filament v3, pasarela de suscripciones recurrentes con Laravel Cashier (Stripe), pruebas E2E con Playwright y despliegues *Zero-Downtime Blue-Green*.
-* **✨ OMNIA Tech Studio**: Estudio de desarrollo de productos digitales. Creación de aplicaciones web interactivas (Next.js 15, Framer Motion), aplicaciones móviles, puntos de venta (POS) y landing pages de ultra-alta conversión.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/cheemita/cheemita/main/assets/kosmos_logo_hd.jpg" width="90" alt="KOSMOS Logo" style="border-radius: 14px;" />
+        <h3>🌌 KOSMOS &bull; Invoice-SaaS</h3>
+      </div>
+      <p><b>Plataforma SaaS Multi-inquilino de Facturación &amp; Finanzas</b></p>
+      <ul>
+        <li>Construida con <b>Laravel 11</b>, <b>Filament v3</b>, <b>Laravel Cashier (Stripe)</b> y <b>Tailwind CSS v4</b>.</li>
+        <li>Despliegues continuos automatizados con estrategia <b>Blue-Green Zero-Downtime</b> y suite completa de testing E2E con <b>Playwright</b>.</li>
+      </ul>
+      <p>
+        <code>Laravel 11</code> &bull; <code>Filament v3</code> &bull; <code>Stripe</code> &bull; <code>Docker</code> &bull; <code>Playwright</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/cheemita/cheemita/main/assets/logo-icon.svg" width="90" alt="OMNIA Logo" />
+        <h3>✨ OMNIA Tech Studio</h3>
+      </div>
+      <p><b>Estudio de Software &amp; Productos Digitales</b></p>
+      <ul>
+        <li>Desarrollo de aplicaciones web interactivas (<b>Next.js 15</b>, <b>Framer Motion</b>), aplicaciones móviles y landing pages de ultra-alta conversión.</li>
+        <li>Sistema de diseño con estética cósmica oscura, microinteracciones fluidas y alto rendimiento.</li>
+      </ul>
+      <p>
+        <code>Next.js 15</code> &bull; <code>TypeScript</code> &bull; <code>Framer Motion</code> &bull; <code>React Native</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
 * **📞 Motor de Telefonía VoIP &amp; Marcador Inteligente**: Marcador automatizado de llamadas salientes con validación y filtrado inteligente de números mediante Twilio API, Node.js, Express y React, sumado a la adecuación física de switches y seguridad de red.
 * **📱 App Móvil Empresarial &amp; Motor Financiero (Tecnosapiens)**: Desarrollo de aplicación móvil multiplataforma en **Flutter / Dart** para la administración de boutiques comerciales, junto con algoritmos de dispersión de utilidades y balances de saldo complejos con integración de IA.
 * **🏦 Soporte de Redes e Infraestructura (BBVA)**: Atención técnica a sucursales BBVA resolviendo incidencias de hardware, redes y dispositivos críticos bajo normativas bancarias.
