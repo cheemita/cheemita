@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%" height="auto">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060913"/>
+      <stop offset="50%" stop-color="#0B132B"/>
+      <stop offset="100%" stop-color="#140B2E"/>
+    </linearGradient>
+    
+    <linearGradient id="cyanPurpleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D2FF"/>
+      <stop offset="50%" stop-color="#3A86FF"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+
+    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00D2FF" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="pillGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E293B" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0.8"/>
+    </linearGradient>
+
+    <!-- Filters -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="30" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#38BDF8" stroke-width="0.5" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <style>
+    .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif; font-weight: 800; font-size: 52px; fill: #FFFFFF; letter-spacing: -1px; }
+    .subtitle { font-family: "Fira Code", "Courier New", monospace; font-weight: 600; font-size: 20px; fill: url(#cyanPurpleGrad); letter-spacing: 3px; }
+    .tagline { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 16px; fill: #94A3B8; }
+    .pill-text { font-family: "Fira Code", monospace; font-size: 12px; font-weight: 600; fill: #E2E8F0; }
+    .brand-glow { animation: pulse 4s ease-in-out infinite; }
+  </style>
+
+  <!-- Background -->
+  <rect width="1200" height="400" rx="16" fill="url(#bgGrad)" stroke="#1E293B" stroke-width="1.5"/>
+  <rect width="1200" height="400" rx="16" fill="url(#grid)"/>
+
+  <!-- Cosmic Orbs / Lens Flares -->
+  <circle cx="150" cy="80" r="180" fill="#00D2FF" opacity="0.12" filter="url(#glow)"/>
+  <circle cx="1050" cy="320" r="220" fill="#8B5CF6" opacity="0.15" filter="url(#glow)"/>
+  <circle cx="600" cy="200" r="100" fill="#3B82F6" opacity="0.08" filter="url(#glow)"/>
+
+  <!-- Constellation stars -->
+  <circle cx="120" cy="60" r="1.5" fill="#FFFFFF" opacity="0.7"/>
+  <circle cx="280" cy="140" r="2" fill="#38BDF8" opacity="0.8"/>
+  <circle cx="450" cy="70" r="1" fill="#FFFFFF" opacity="0.5"/>
+  <circle cx="890" cy="110" r="2" fill="#C084FC" opacity="0.8"/>
+  <circle cx="1020" cy="70" r="1.5" fill="#FFFFFF" opacity="0.9"/>
+  <circle cx="1100" cy="190" r="2.5" fill="#38BDF8" opacity="0.6"/>
+  <circle cx="950" cy="280" r="1.5" fill="#FFFFFF" opacity="0.6"/>
+  <circle cx="180" cy="310" r="2" fill="#A855F7" opacity="0.7"/>
+  <circle cx="720" cy="340" r="1" fill="#FFFFFF" opacity="0.5"/>
+
+  <!-- Decorative Orbit ring -->
+  <ellipse cx="1060" cy="120" rx="90" ry="25" fill="none" stroke="url(#cyanPurpleGrad)" stroke-width="1" stroke-dasharray="4,6" opacity="0.4" transform="rotate(-20 1060 120)"/>
+  <circle cx="975" cy="115" r="4" fill="#00D2FF" opacity="0.9"/>
+
+  <!-- Content Group -->
+  <g transform="translate(80, 70)">
+    <!-- Subtitle / Eyebrow -->
+    <text x="0" y="40" class="subtitle">SOFTWARE ENGINEER &amp; SYSTEMS BUILDER</text>
+    
+    <!-- Main Name -->
+    <text x="0" y="105" class="title">José Manuel González</text>
+
+    <!-- Tagline -->
+    <text x="0" y="145" class="tagline">Founder of <tspan fill="#38BDF8" font-weight="bold">OMNIA</tspan> • Creator of <tspan fill="#A855F7" font-weight="bold">KOSMOS</tspan> • AI Orchestration &amp; Scalable Architecture</text>
+
+    <!-- Pills / Badges -->
+    <g transform="translate(0, 185)">
+      <!-- Pill 1: Degree -->
+      <rect x="0" y="0" width="220" height="34" rx="17" fill="url(#pillGrad)" stroke="#38BDF8" stroke-width="1" stroke-opacity="0.4"/>
+      <circle cx="18" cy="17" r="4" fill="#38BDF8"/>
+      <text x="32" y="22" class="pill-text">B.S. SOFTWARE ENG.</text>
+
+      <!-- Pill 2: Bilingual -->
+      <rect x="235" y="0" width="240" height="34" rx="17" fill="url(#pillGrad)" stroke="#818CF8" stroke-width="1" stroke-opacity="0.4"/>
+      <circle cx="253" cy="17" r="4" fill="#818CF8"/>
+      <text x="267" y="22" class="pill-text">BILINGUAL (EN 🇺🇸 / ES 🇲🇽)</text>
+
+      <!-- Pill 3: Full Stack & AI -->
+      <rect x="490" y="0" width="260" height="34" rx="17" fill="url(#pillGrad)" stroke="#C084FC" stroke-width="1" stroke-opacity="0.4"/>
+      <circle cx="508" cy="17" r="4" fill="#C084FC"/>
+      <text x="522" y="22" class="pill-text">AI AGENTS &amp; CLOUD ARCH.</text>
+
+      <!-- Pill 4: GitHub PRO -->
+      <rect x="765" y="0" width="160" height="34" rx="17" fill="url(#pillGrad)" stroke="#34D399" stroke-width="1" stroke-opacity="0.4"/>
+      <circle cx="783" cy="17" r="4" fill="#34D399"/>
+      <text x="797" y="22" class="pill-text">GITHUB PRO ⚡</text>
+    </g>
+  </g>
+</svg>
